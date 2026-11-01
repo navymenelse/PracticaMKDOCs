@@ -1,0 +1,54 @@
+site_name: Practica MkDocs
+site_author: Salomon Alvarez
+site_description: Práctica MkDocs
+theme:
+  name: material
+  logo: images/logo1.jpg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toolbar:
+      toggle:
+        icon: material/brightness-6
+        name: cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: cambiar a modo claro
+   
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Acerca de mi: PerfilProfesional_SalomonAlvarez.md
+  - Modulos matriculados del ciclo:
+    - Markdown: ModuloMarkdown.md
+    - MkDocs: ModuloMkDocs.md
+    - Teams: ModuloTeams.md
+    - Trello: ModuloTrello.md
+    - Diagrama de Gantt: ModuloDiagramaGantt.md
+    - SCRUM: ModuloSCRUM.md
+    - Práctica FInal Proyecto intermodular: ModuloPracticaFinal.md
