@@ -16,7 +16,7 @@ Combinado con el ecosistema de **Material for MkDocs**, se transforma en una pot
 ---
 
 ## 💡 ¿Qué espero de este módulo?
-> [!NOTE] Expectativa principal del módulo
+> Expectativa principal del módulo
 > Espero dominar la creación de portales de documentación visualmente atractivos y funcionales que no tengan nada que envidiarle a las grandes wikis comerciales de la industria tecnológica.
 
 ---
