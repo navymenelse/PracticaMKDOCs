@@ -39,6 +39,10 @@ markdown_extensions:
   - codehilite
   - footnotes
   - meta
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
 

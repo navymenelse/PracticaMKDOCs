@@ -1,4 +1,4 @@
-# Módulo: Práctica Final Proyecto Intermodular
+# Práctica Final Proyecto Intermodular
 ![logo generalitat valenciana](images/genera.png)
 ## 📄 Resumen del módulo
 La **Práctica Final Proyecto Intermodular** representa la síntesis de todos los conocimientos y habilidades adquiridos a lo largo del ciclo formativo. Consiste en la concepción, diseño, desarrollo y documentación de un proyecto web completo y funcional, integrando herramientas de control de versiones, entornos de desarrollo, gestión ágil y despliegue automatizado.

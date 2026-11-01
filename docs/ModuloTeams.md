@@ -1,4 +1,4 @@
-# :material-microsoft-teams: Módulo: Microsoft Teams
+# Microsoft Teams
 
 ![logo teams](images/teams.png)
 ---

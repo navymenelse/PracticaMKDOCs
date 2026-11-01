@@ -1,4 +1,4 @@
-# Módulo: Diagrama de Gantt
+#  Diagrama de Gantt
 ![logo para Diagramas Gantt](images/gantt.png){width="400"}
 ## 📄 Resumen del módulo
 El **Diagrama de Gantt** es una herramienta gráfica de gestión de proyectos que permite visualizar el cronograma de las diferentes tareas y actividades a lo largo del tiempo. Representa en el eje horizontal el tiempo y en el eje vertical las tareas planificadas, mostrando de forma clara las fechas de inicio, duración, finalización y las dependencias entre los distintos hitos de un proyecto.

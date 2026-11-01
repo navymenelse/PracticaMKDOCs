@@ -1,4 +1,4 @@
-# Módulo: MkDocs
+# MkDocs
 ![logo de MkDocs](images/mkdocs.png)
 
 ## 📄 Resumen del módulo

@@ -1,4 +1,4 @@
-# Módulo: Markdown
+# Markdown
 ![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 ## 📄 Resumen del módulo
