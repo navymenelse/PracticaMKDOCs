@@ -40,10 +40,3 @@
     > Me interesa especialmente descubrir cómo conectar bots personalizados y alertas automáticas desde entornos de desarrollo hacia los canales de Teams.
 
 ---
-
-## :material-format-list-checks: Planificación y Objetivos
-
-* [x] Comprender la estructura de organizaciones, equipos y canales.
-* [ ] Configurar permisos de usuario y roles de moderador.
-* [ ] Integrar herramientas de control de código y gestión de tareas.
-* [ ] Realizar pruebas de automatización con webhooks.

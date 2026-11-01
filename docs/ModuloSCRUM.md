@@ -13,6 +13,6 @@
 ---
 
 ## 💡 ¿Qué espero de este módulo?
-Espero aprender a trabajar de manera organizada bajo metodologías ágiles realesy los conceptos base de SCRUM, mejorando la comunicación y la capacidad de respuesta ante imprevistos durante el desarrollo colaborativo de proyectos web.
+Espero aprender a trabajar de manera organizada bajo metodologías ágiles reales y los conceptos base de SCRUM, mejorando la comunicación y la capacidad de respuesta ante imprevistos durante el desarrollo colaborativo de proyectos web, en un sistema de trabajo que he visto que se utiliza mucho hoy en dia.
 
 ---

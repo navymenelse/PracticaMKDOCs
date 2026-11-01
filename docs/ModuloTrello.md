@@ -13,6 +13,6 @@
 ---
 
 ## 💡 ¿Qué espero de este módulo?
-Espero comprender la metodología Kanban aplicada a herramientas digitales, así como acerca de la organización visual de proyectos informáticos para aplicarla tanto en el ámbito académico como en entornos profesionales reales.
+Espero comprender la metodología Kanban aplicada a herramientas digitales, así como de la organización visual de proyectos informáticos para integrarla en grupos de trabajo donde cada quien pueda saber a que se debe dedicar y que están haciendo los demás integrantes de un equipo.
 
 ---

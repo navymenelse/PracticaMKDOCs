@@ -13,11 +13,6 @@ El **Diagrama de Gantt** es una herramienta gráfica de gestión de proyectos qu
 ---
 
 ## 💡 ¿Qué espero de este módulo?
-Espero adquirir la capacidad de estructurar temporalmente cualquier proyecto informático, evitando retrasos y mejorando la organización de las entregas, algo fundamental para coordinar el desarrollo de aplicaciones web de manera eficiente.
+Espero mejorar mi capacidad para planificar y llevar el seguimiento a un proyecto informático, pudiendo identificar cuellos de botella y fechas limite, evitando asi retrasos y optimizando la organización de las entregas, algo fundamental para coordinar el desarrollo de aplicaciones web de manera eficiente.
 
 ---
-
-## ✅ Planificación y Objetivos
-* [x] Entender los conceptos de cronograma, tareas y dependencias temporales.
-* [ ] Diseñar un diagrama de Gantt aplicado al desarrollo del proyecto intermodular.
-* [ ] Monitorear y ajustar los tiempos de ejecución frente a los plazos previstos.
