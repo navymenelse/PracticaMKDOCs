@@ -1,5 +1,6 @@
 site_name: Practica MkDocs
 site_author: Salomon Alvarez
+site_url: https://navymenelse.github.io/PracticaMKDOCs/
 site_description: Práctica MkDocs
 theme:
   name: material
