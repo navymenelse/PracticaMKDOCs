@@ -1,5 +1,6 @@
-# Trello
-![logo trello](images/trello.png)
+# Módulo: Trello
+![Logo de Trello](images/trello.png){width="250"}
+
 ## 📄 Resumen del módulo
 **Trello** es una herramienta de gestión de proyectos basada en el marco visual **Kanban**. Permite organizar tareas en tableros digitales compuestos por listas y tarjetas, facilitando el seguimiento del estado de cualquier proyecto de forma intuitiva, colaborativa y accesible desde cualquier dispositivo.
 
@@ -13,6 +14,6 @@
 ---
 
 ## 💡 ¿Qué espero de este módulo?
-Espero comprender la metodología Kanban aplicada a herramientas digitales, así como de la organización visual de proyectos informáticos para integrarla en grupos de trabajo donde cada quien pueda saber a que se debe dedicar y que están haciendo los demás integrantes de un equipo.
+Espero comprender la metodología Kanban aplicada a herramientas digitales y la organización visual de proyectos informáticos. Quiero integrar estos conocimientos en grupos de trabajo para que cada persona sepa a qué debe dedicarse y qué están haciendo los demás integrantes del equipo.
 
 ---
