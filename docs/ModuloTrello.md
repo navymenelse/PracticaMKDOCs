@@ -1,4 +1,4 @@
-# Módulo: Trello
+# Trello
 ![Logo de Trello](images/trello.png){width="250"}
 
 ## 📄 Resumen del módulo

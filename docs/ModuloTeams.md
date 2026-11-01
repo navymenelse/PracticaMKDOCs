@@ -1,4 +1,4 @@
-# Módulo: Microsoft Teams
+# Microsoft Teams
 ![Logo de Microsoft Teams](images/teams.png){width="250"}
 
 ## 📄 Resumen del módulo
